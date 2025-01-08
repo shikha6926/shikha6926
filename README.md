@@ -67,7 +67,7 @@
 ## 📜 Certifications
 
 - 🎓 **ROS2 for Beginners** - Udemy
-- 🤖 **Machine Learning Certification** - Simplilearn(#
+- 🤖 **Machine Learning Certification** - Simplilearn
 
 ---
 
