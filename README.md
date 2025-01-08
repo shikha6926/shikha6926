@@ -1,118 +1,77 @@
-## Hi there 👋
+# 🌟 Shikha Tiwari - Portfolio
 
-# Shikha Tiwari - Portfolio
-
-👋 Welcome to my GitHub portfolio! I'm **Shikha Tiwari**, an experienced and innovative **Software Engineer** with a strong background in software development, robotics, and algorithm design. Here, you will find details about my professional journey, key projects, and technical skills.
+👋 **Welcome!** I'm **Shikha Tiwari**, a passionate **Software Engineer** who thrives on solving complex problems in robotics, software development, and algorithm design. Dive in to explore my journey, projects, and expertise!
 
 ---
 
-## About Me
+## 🌍 About Me
 
-- 🌍 **Location:** Petershausen, Germany
-- 📧 **Email:** [shikha.tiwari6296@gmail.com](mailto:shikha.tiwari6296@gmail.com)
+- 🏡 **Location:** Petershausen, Germany
+- ✉️ **Email:** [shikha.tiwari6296@gmail.com](mailto:shikha.tiwari6296@gmail.com)
 - 🌐 **LinkedIn:** [Shikha Tiwari](https://www.linkedin.com/in/shikha-tiwari-6ab48613b/)
-- 📸 **Interests:** Travel & Photography, Building Electronics
+- ✨ **Hobbies:** Travel & Photography, Building Electronics
 
 ---
 
-## Skills
+## 🛠️ Skills
 
-### Programming Languages
-- Python
-- Modern C++
-- Embedded C
-
-### Tools & Frameworks
-- MATLAB
-- Simulink
-- ROS
-- OpenCV
-- PyTorch
-- RTOS
-- Git
-
-### Specialized Areas
-- Sensor Fusion
-- GTSAM (Georgia Tech Smoothing and Mapping)
-- Optimization
-- Optimal Control
-- Computer Vision
+- **Languages:** Python, Modern C++, Embedded C
+- **Tools & Frameworks:** MATLAB, Simulink, ROS, OpenCV, PyTorch, RTOS, Git
+- **Specialties:** Sensor Fusion, Optimization, Computer Vision, GTSAM, Optimal Control
 
 ---
 
-## Experience
+## 💼 Experience
 
-### Master Thesis Student  
-**MAN Truck and Bus SE**  
-*April 2024 - November 2024 | Munich, Germany*
-- Designed an ego-motion estimation algorithm to enhance navigation accuracy for truck cabins.
-- Developed a detailed cabin dynamics model and conducted parameter estimation and sensitivity analysis.
-- Benchmarked system performance under various driving conditions.
+- **Master Thesis Student** (Apr 2024 - Nov 2024) - *MAN Truck and Bus SE, Munich, Germany*  
+  - 🚚 Designed an ego-motion estimation algorithm for truck cabins.
+  - 🛠️ Developed a cabin dynamics model with parameter optimization.
+  - 📊 Benchmarked performance under diverse driving scenarios.
 
-### Student Intern  
-**MAN Truck and Bus SE**  
-*February 2024 - April 2024 | Munich, Germany*
-- Evaluated state-of-the-art ego-motion estimation techniques using Bayesian Filters and Factor Graphs.
-- Simulated virtual driving scenarios using MATLAB/Simulink.
-- Validated ADTF measurement data for system testing.
+- **Student Intern** (Feb 2024 - Apr 2024) - *MAN Truck and Bus SE, Munich, Germany*  
+  - 🛠️ Evaluated state-of-the-art ego-motion estimation techniques using Bayesian Filters and Factor Graphs.
+  - 🚗 Simulated virtual driving scenarios using MATLAB/Simulink.
+  - 🧪 Validated ADTF measurement data for system testing.
 
-### Working Student  
-**TRUMPF GmbH + Co. KG Hüttinger**  
-*July 2022 - December 2023 | Freiburg, Germany*
-- Developed and optimized C++ firmware for TI Sitara ARM processors, enhancing Ethernet communication.
-- Automated database management using XML/XSD schema design and Python scripting.
-- Implemented RPC mechanisms for debugging interfaces through socket programming.
+- **Working Student** (Jul 2022 - Dec 2023) - *TRUMPF GmbH, Freiburg, Germany*  
+  - 🖥️ Optimized C++ firmware for TI Sitara ARM processors.
+  - 🔄 Automated database management with Python scripting.
+  - 🔧 Implemented RPC mechanisms for debugging interfaces.
 
-### Embedded Software Engineer  
-**Robert Bosch Engineering and Business Solutions Pvt Ltd**  
-*August 2018 - August 2021 | Bangalore, India*
-- Developed embedded C coding for airbag systems with RTOS, focusing on CAN & Flexray communication modules.
-- Improved software validation automation from 40% to 75% through high-level API design in Perl.
-- Directed sensor testing with SPI-based tools and validated CAN, diagnostic, and bootloader modules.
+- **Embedded Software Engineer** (Aug 2018 - Aug 2021) - *Robert Bosch Engineering, Bangalore, India*  
+  - 🛡️ Developed communication modules for airbag systems using Embedded C.
+  - 📈 Enhanced validation automation by 35% through custom APIs.
+  - 🧪 Conducted sensor testing and validated CAN, diagnostics, and bootloaders.
 
 ---
 
-## Education
+## 🎓 Education
 
-### Master of Science in Embedded System Engineering  
-**University of Freiburg**  
-*October 2021 - November 2024 | Freiburg, Germany*
-- GPA: 1.8 / 6.0
-- **Relevant Coursework:** Mobile Robotics, Computer Vision, Deep Learning, Numerical Optimal Control, Embedded Systems, Machine Learning
+- **M.Sc. in Embedded System Engineering** - *University of Freiburg* (Oct 2021 - Nov 2024)  
+  - GPA: 1.8 / 6.0  
+  - Relevant Coursework: Mobile Robotics, Computer Vision, Deep Learning, Embedded Systems
 
-### Bachelor of Engineering in Electronics and Telecommunication  
-**MKSSS's Cummins College of Engineering**  
-*August 2014 - May 2018 | Pune, India*
-- Percentage: 79.4%
-- **Projects:**
-  - Designed a microwave sensor for metal crack detection.
-  - Developed a prototype for a Soil Health Meter.
+- **B.E. in Electronics and Telecommunication** - *MKSSS's Cummins College of Engineering* (Aug 2014 - May 2018)  
+  - Percentage: 79.4%
 
 ---
 
-## Key Projects
+## 🚀 Projects
 
-## Key Projects
-
-### Time-Optimal Automated Parallel Parking of Vehicle
-- [[GitHub Repository](https://github.com/shikha6926/Automated-Parallel-Parking)](#)
-
-### MPC-based Miniature Autonomous Race Car
-- [[GitHub Repository](https://github.com/shikha6926/Race_Car_MPCC_Controller)](#)
-
-### 3D Mapping using RGB-D SLAM
-- [[GitHub Repository](https://github.com/shikha6926/RGBD-SLAM-FreiCAR-LAB)](#)
+- **[Time-Optimal Automated Parking](https://github.com/shikha6926/Automated-Parallel-Parking)**: Precision maneuvering with control algorithms.  
+- **[Miniature Autonomous Race Car Controller](https://github.com/shikha6926/Race_Car_MPCC_Controller)**: Model predictive control for lap optimization.  
+- **[3D Mapping using RGB-D SLAM](https://github.com/shikha6926/RGBD-SLAM-FreiCAR-LAB)**: Created detailed maps with Graph SLAM techniques.  
 
 ---
 
-## Certifications
+## 📜 Certifications
 
-- **ROS2 for Beginners** - Udemy
-- **Machine Learning Certification** - Simplilearn
+- 🎓 **ROS2 for Beginners** - Udemy
+- 🤖 **Machine Learning Certification** - Simplilearn(#
 
 ---
 
-## Get in Touch
+## 🤝 Get in Touch
 
-Feel free to explore my repositories and reach out if you'd like to collaborate on exciting projects or have any feedback. Contributions are always welcome! 😊
-
+✨ Explore my repositories, and feel free to reach out if you're interested in collaborations or feedback.  
+Let's build something amazing together! 😊
