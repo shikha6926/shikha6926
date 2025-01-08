@@ -1,16 +1,117 @@
 ## Hi there 👋
 
-<!--
-**shikha6926/shikha6926** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Shikha Tiwari - Portfolio
 
-Here are some ideas to get you started:
+👋 Welcome to my GitHub portfolio! I'm **Shikha Tiwari**, an experienced and innovative **Software Engineer** with a strong background in software development, robotics, and algorithm design. Here, you will find details about my professional journey, key projects, and technical skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About Me
+
+- 🌍 **Location:** Petershausen, Germany
+- 📧 **Email:** [shikha.tiwari6296@gmail.com](mailto:shikha.tiwari6296@gmail.com)
+- 🌐 **LinkedIn:** [Shikha Tiwari](https://www.linkedin.com/in/shikha-tiwari-6ab48613b/)
+- 📸 **Interests:** Travel & Photography, Building Electronics
+
+---
+
+## Skills
+
+### Programming Languages
+- Python
+- Modern C++
+- Embedded C
+
+### Tools & Frameworks
+- MATLAB, Simulink
+- ROS, OpenCV
+- PyTorch, RTOS, Git
+
+### Specialized Areas
+- Sensor Fusion
+- GTSAM (Georgia Tech Smoothing and Mapping)
+- Optimization
+- Optimal Control
+- Computer Vision
+
+---
+
+## Experience
+
+### Master Thesis Student  
+**MAN Truck and Bus SE**  
+*April 2024 - November 2024 | Munich, Germany*
+- Designed an ego-motion estimation algorithm to enhance navigation accuracy for truck cabins.
+- Developed a detailed cabin dynamics model and conducted parameter estimation and sensitivity analysis.
+- Benchmarked system performance under various driving conditions.
+
+### Student Intern  
+**MAN Truck and Bus SE**  
+*February 2024 - April 2024 | Munich, Germany*
+- Evaluated state-of-the-art ego-motion estimation techniques using Bayesian Filters and Factor Graphs.
+- Simulated virtual driving scenarios using MATLAB/Simulink.
+- Validated ADTF measurement data for system testing.
+
+### Working Student  
+**TRUMPF GmbH + Co. KG Hüttinger**  
+*July 2022 - December 2023 | Freiburg, Germany*
+- Developed and optimized C++ firmware for TI Sitara ARM processors, enhancing Ethernet communication.
+- Automated database management using XML/XSD schema design and Python scripting.
+- Implemented RPC mechanisms for debugging interfaces through socket programming.
+
+### Embedded Software Engineer  
+**Robert Bosch Engineering and Business Solutions Pvt Ltd**  
+*August 2018 - August 2021 | Bangalore, India*
+- Developed embedded C coding for airbag systems with RTOS, focusing on CAN & Flexray communication modules.
+- Improved software validation automation from 40% to 75% through high-level API design in Perl.
+- Directed sensor testing with SPI-based tools and validated CAN, diagnostic, and bootloader modules.
+
+---
+
+## Education
+
+### Master of Science in Embedded System Engineering  
+**University of Freiburg**  
+*October 2021 - November 2024 | Freiburg, Germany*
+- GPA: 1.8 / 6.0
+- **Relevant Coursework:** Mobile Robotics, Computer Vision, Deep Learning, Numerical Optimal Control, Embedded Systems, Machine Learning
+
+### Bachelor of Engineering in Electronics and Telecommunication  
+**MKSSS's Cummins College of Engineering**  
+*August 2014 - May 2018 | Pune, India*
+- Percentage: 79.4%
+- **Projects:**
+  - Designed a microwave sensor for metal crack detection.
+  - Developed a prototype for a Soil Health Meter.
+
+---
+
+## Key Projects
+
+### Time-Optimal Automated Parallel Parking of Vehicle
+- Designed and implemented a direct multiple shooting optimal control algorithm for automated parallel parking.
+- Achieved high precision and efficiency in maneuver planning.
+- **Tools:** MATLAB, CasADi
+
+### MPC-based Miniature Autonomous Race Car
+- Enhanced a Model Predictive Contouring Control (MPCC) based controller for lap time optimization.
+- Reformulated control problems for improved car dynamics in simulations.
+- **Tools:** C++, Acados, ROS1, CasADi
+
+### 3D Mapping using RGB-D SLAM
+- Created a colored point cloud using Graph SLAM with ZED camera RGBD readings and Intel RealSense odometry data.
+- **Tools:** C++, ROS1, Open3D, OpenCV, PyTorch, g2o
+
+---
+
+## Certifications
+
+- **ROS2 for Beginners** - Udemy
+- **Machine Learning Certification** - Simplilearn
+
+---
+
+## Get in Touch
+
+Feel free to explore my repositories and reach out if you'd like to collaborate on exciting projects or have any feedback. Contributions are always welcome! 😊
+
