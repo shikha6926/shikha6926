@@ -23,9 +23,13 @@
 - Embedded C
 
 ### Tools & Frameworks
-- MATLAB, Simulink
-- ROS, OpenCV
-- PyTorch, RTOS, Git
+- MATLAB
+- Simulink
+- ROS
+- OpenCV
+- PyTorch
+- RTOS
+- Git
 
 ### Specialized Areas
 - Sensor Fusion
@@ -88,19 +92,16 @@
 
 ## Key Projects
 
+## Key Projects
+
 ### Time-Optimal Automated Parallel Parking of Vehicle
-- Designed and implemented a direct multiple shooting optimal control algorithm for automated parallel parking.
-- Achieved high precision and efficiency in maneuver planning.
-- **Tools:** MATLAB, CasADi
+- [[GitHub Repository](https://github.com/shikha6926/Automated-Parallel-Parking)](#)
 
 ### MPC-based Miniature Autonomous Race Car
-- Enhanced a Model Predictive Contouring Control (MPCC) based controller for lap time optimization.
-- Reformulated control problems for improved car dynamics in simulations.
-- **Tools:** C++, Acados, ROS1, CasADi
+- [[GitHub Repository](https://github.com/shikha6926/Race_Car_MPCC_Controller)](#)
 
 ### 3D Mapping using RGB-D SLAM
-- Created a colored point cloud using Graph SLAM with ZED camera RGBD readings and Intel RealSense odometry data.
-- **Tools:** C++, ROS1, Open3D, OpenCV, PyTorch, g2o
+- [[GitHub Repository](https://github.com/shikha6926/RGBD-SLAM-FreiCAR-LAB)](#)
 
 ---
 
