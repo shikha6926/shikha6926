@@ -40,9 +40,8 @@
     - **Spline-Based Formulation:** Enhanced the trajectory by converting the center line into a smooth spline-based representation. This allowed for a more   continuous path, leading to improved control and reduced lap times.  
   - **Modified MPCC Controller:** Updated the MPCC controller to incorporate the spline-based formulation, optimizing vehicle dynamics for maximum speed while adhering to track constraints.
 
-- **[3D Mapping using RGB-D SLAM](https://github.com/shikha6926/RGBD-SLAM-FreiCAR-LAB)**: Created detailed maps with Graph SLAM techniques.  
+- **[3D Mapping using RGB-D SLAM](https://github.com/shikha6926/RGBD-SLAM-FreiCAR-LAB)**:   
     This project implements a graph-based SLAM pipeline to create detailed 3D maps using RGB-D data.
-
   - **Multi-Sensor Integration:** Combines data from the **Stereolabs ZED2 RGB-D camera** for point cloud creation, **Intel Realsense T265** for pose estimation, and a **VIVE tracker** for ground truth evaluation.
   - **Graph Optimization:** Uses **g2o** for graph optimization to refine pose estimates and correct drift, ensuring accurate map generation.
   - **Loop Closure Detection:** Identifies revisited locations to improve map consistency and reduce errors in large-scale environments.
