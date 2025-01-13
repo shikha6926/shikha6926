@@ -21,7 +21,7 @@
 ---
 
 ## 🚀 Projects
-- **[Object Detection using Lidar Data](https://github.com/shikha6926/Automated-Parallel-Parking)**:
+- **[Object Detection using Lidar Data](https://github.com/shikha6926/SFND_Lidar_Obstacle_Detection)**:
   - Leveraged LiDAR sensor data to accurately detect and classify objects in a 3D environment. The project involved:
   - **Point Cloud Processing:** Processed raw point cloud data using the PCL (Point Cloud Library) to identify and classify objects.
   - **Custom Algorithms:**
