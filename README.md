@@ -42,18 +42,15 @@ Sensor Fusion, State Estimation, Computer Vision, Motion Control, Numerical Opti
 <table>
   <tr>
     <td colspan="3" align="center">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shikha6926&theme=solarized_dark" alt="Profile Details" width="80%" height="auto">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shikha6926&count_private=true&theme=solarized_dark&include_all_commits=true" alt="Profile Details" width="80%" height="auto">
     </td>
   </tr>
   <tr>
     <td style="text-align: center;">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shikha6926&theme=solarized_dark" alt="Repos per Language" width="100%" height="auto">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shikha6926&count_private=true&theme=solarized_dark&include_all_commits=true" alt="Stats" width="100%" height="auto">
     </td>
     <td style="text-align: center;">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shikha6926&theme=solarized_dark" alt="Stats" width="100%" height="auto">
-    </td>
-    <td style="text-align: center;">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shikha6926&theme=solarized_dark&utcOffset=8" alt="Productive Time" width="100%" height="auto">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shikha6926&count_private=true&theme=solarized_dark&utcOffset=8&include_all_commits=true" alt="Productive Time" width="100%" height="auto">
     </td>
   </tr>
 </table>
